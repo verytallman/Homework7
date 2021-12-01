@@ -52,16 +52,6 @@ public class FractionNumbers {
         System.out.println("The value for String is " + str1);
     return "";
     }
-
-
 }
-
-
-//Write class to represent FractionNumbers
-//This class should contain two fields.
-//This class should contain methods to perform basic math operations:
-//plus, minus, multiply, divide
-//Also, this class should have toString method to print numbers into standard output
-//Create additional class like App to check functionality of FractionNumber class
 
 
