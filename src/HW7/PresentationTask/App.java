@@ -11,6 +11,4 @@ public class App {
         check.multiplyMethod();
         check.toStringMethod();
     }
-
-
 }

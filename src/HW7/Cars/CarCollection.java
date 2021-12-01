@@ -21,7 +21,6 @@ public class CarCollection {
         VolvoV70.fuelCounter(3.0);
         VolvoV70.fuelCounter(2.0, "A-95");
 
-
         Car VolvoXC90 = new Car();
         VolvoXC90.setCarColor("Red");
         VolvoXC90.setCarModel("XC90");

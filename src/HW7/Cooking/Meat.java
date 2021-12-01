@@ -16,5 +16,4 @@ public class Meat  {
         int timeToCook = weight * 90; // 90 minutes to cook 1 kilo of meat using sous-vide method.
         System.out.println("To cook "+weight+" kilos of "+typeOfMeat+" will take "+timeToCook+" minutes using "+foodPreparation+" method.");
     }
-
 }
